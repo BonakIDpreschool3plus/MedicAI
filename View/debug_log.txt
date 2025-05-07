@@ -1,0 +1,1850 @@
+{
+  "id": "nr1zHzH-4yUbBN-933f4bb7089cbc45-PDX",
+  "object": "text.completion",
+  "created": 1745263824,
+  "model": "mistralai/Mixtral-8x7B-Instruct-v0.1",
+  "choices": [
+    {
+      "index": 0,
+      "text": " It sounds like you have red eyes. This can be due to dryness, irritation, or an infection. If it's a viral infection, you might have other symptoms like a runny nose or sore throat. If your eyes are itchy or painful, you should consult a healthcare professional, as it could be something more serious. To alleviate discomfort, try using a warm compress, lubricating eye drops, or resting your eyes.",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": null,
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 234,
+    "total_tokens": 330,
+    "completion_tokens": 96,
+    "prompt_tokens_details": null
+  },
+  "prompt": []
+}{
+  "id": "nr1zUZM-4yUbBN-933f4c95893ebc58-PDX",
+  "object": "text.completion",
+  "created": 1745263860,
+  "model": "mistralai/Mixtral-8x7B-Instruct-v0.1",
+  "choices": [
+    {
+      "index": 0,
+      "text": " \"I see, it sounds like you might be experiencing red eyes. This could be due to various reasons such as eye strain, allergies, or an infection. If the redness persists, it would be best to consult with a healthcare professional for a proper diagnosis and treatment. In the meantime, try to rest your eyes, avoid touching or rubbing them, and use a cold compress to alleviate any discomfort.\"",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": null,
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 236,
+    "total_tokens": 324,
+    "completion_tokens": 88,
+    "prompt_tokens_details": null
+  },
+  "prompt": []
+}{
+  "id": "nr21a8n-4yUbBN-933f51cdff6ebc2e-PDX",
+  "object": "text.completion",
+  "created": 1745264074,
+  "model": "mistralai/Mixtral-8x7B-Instruct-v0.1",
+  "choices": [
+    {
+      "index": 0,
+      "text": " \"I'm here to help! Red eyes could be a sign of several conditions, such as dryness, conjunctivitis (pink eye), or allergies. To help me narrow down the cause, could you please tell me if you have any other symptoms like itching, burning, or discharge? Also, have you been exposed to anyone with a cold or flu recently?\"",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": null,
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 236,
+    "total_tokens": 317,
+    "completion_tokens": 81,
+    "prompt_tokens_details": null
+  },
+  "prompt": []
+}{
+  "id": "nr21bdr-4yUbBN-933f51eb7cf3b9f3-MNL",
+  "object": "text.completion",
+  "created": 1745264079,
+  "model": "mistralai/Mixtral-8x7B-Instruct-v0.1",
+  "choices": [
+    {
+      "index": 0,
+      "text": " \"Redness in the eyes could be due to several reasons, such as allergies, eye fatigue, or a more serious issue like an infection. It's essential to monitor the condition and consult an eye care professional if it persists or worsens. Some temporary relief measures include applying a cold compress, avoiding irritants, and using artificial tears to soothe your eyes. If you wear contact lenses, consider switching to glasses for a while.\"",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": null,
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 236,
+    "total_tokens": 330,
+    "completion_tokens": 94,
+    "prompt_tokens_details": null
+  },
+  "prompt": []
+}{
+  "id": "nr21geQ-4yUbBN-933f52572ebebc55-PDX",
+  "object": "text.completion",
+  "created": 1745264096,
+  "model": "mistralai/Mixtral-8x7B-Instruct-v0.1",
+  "choices": [
+    {
+      "index": 0,
+      "text": " \"You might be experiencing eye redness, which can be caused by various factors like dryness, eye strain, or an infection. If it's persistent or accompanied by other symptoms like pain, discharge, or vision changes, please consult a healthcare professional. In the meantime, try using artificial tears or a warm compress to alleviate discomfort. Stay hydrated, and remember to take breaks during screen time to rest your eyes.\"",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": null,
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 236,
+    "total_tokens": 327,
+    "completion_tokens": 91,
+    "prompt_tokens_details": null
+  },
+  "prompt": []
+}{
+  "id": "nr22q9W-4yUbBN-933f57cd0d6bbc3f-PDX",
+  "object": "text.completion",
+  "created": 1745264319,
+  "model": "mistralai/Mixtral-8x7B-Instruct-v0.1",
+  "choices": [
+    {
+      "index": 0,
+      "text": " \"It sounds like you might be experiencing red eyes. This can be caused by various factors, such as dryness, allergies, or eye strain. If it's accompanied by discomfort, discharge, or vision changes, it's essential to consult a healthcare professional. To alleviate symptoms, try using artificial tears, avoiding irritants, and taking breaks during screen time. Stay hydrated and maintain a healthy sleep schedule.\"",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": null,
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 236,
+    "total_tokens": 327,
+    "completion_tokens": 91,
+    "prompt_tokens_details": null
+  },
+  "prompt": []
+}Array
+(
+    [id] => nr22q9W-4yUbBN-933f57cd0d6bbc3f-PDX
+    [object] => text.completion
+    [created] => 1745264319
+    [model] => mistralai/Mixtral-8x7B-Instruct-v0.1
+    [choices] => Array
+        (
+            [0] => Array
+                (
+                    [index] => 0
+                    [text] =>  "It sounds like you might be experiencing red eyes. This can be caused by various factors, such as dryness, allergies, or eye strain. If it's accompanied by discomfort, discharge, or vision changes, it's essential to consult a healthcare professional. To alleviate symptoms, try using artificial tears, avoiding irritants, and taking breaks during screen time. Stay hydrated and maintain a healthy sleep schedule."
+                    [logprobs] => 
+                    [finish_reason] => stop
+                    [stop_reason] => 
+                    [prompt_logprobs] => 
+                )
+
+        )
+
+    [usage] => Array
+        (
+            [prompt_tokens] => 236
+            [total_tokens] => 327
+            [completion_tokens] => 91
+            [prompt_tokens_details] => 
+        )
+
+    [prompt] => Array
+        (
+        )
+
+)
+{
+  "id": "nr22ySx-4yUbBN-933f587bdbc2bc33-PDX",
+  "object": "text.completion",
+  "created": 1745264347,
+  "model": "mistralai/Mixtral-8x7B-Instruct-v0.1",
+  "choices": [
+    {
+      "index": 0,
+      "text": " I can help with that! Redness in the eyes can be caused by various factors such as allergies, eye strain, dryness, or an infection. To provide the best advice, I need to ask a few questions. Have you recently been exposed to any allergens, or do you have allergies? Are you experiencing any pain or itching in your eyes? Have you been wearing contact lenses for an extended period?",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": null,
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 236,
+    "total_tokens": 324,
+    "completion_tokens": 88,
+    "prompt_tokens_details": null
+  },
+  "prompt": []
+}Array
+(
+    [id] => nr22ySx-4yUbBN-933f587bdbc2bc33-PDX
+    [object] => text.completion
+    [created] => 1745264347
+    [model] => mistralai/Mixtral-8x7B-Instruct-v0.1
+    [choices] => Array
+        (
+            [0] => Array
+                (
+                    [index] => 0
+                    [text] =>  I can help with that! Redness in the eyes can be caused by various factors such as allergies, eye strain, dryness, or an infection. To provide the best advice, I need to ask a few questions. Have you recently been exposed to any allergens, or do you have allergies? Are you experiencing any pain or itching in your eyes? Have you been wearing contact lenses for an extended period?
+                    [logprobs] => 
+                    [finish_reason] => stop
+                    [stop_reason] => 
+                    [prompt_logprobs] => 
+                )
+
+        )
+
+    [usage] => Array
+        (
+            [prompt_tokens] => 236
+            [total_tokens] => 324
+            [completion_tokens] => 88
+            [prompt_tokens_details] => 
+        )
+
+    [prompt] => Array
+        (
+        )
+
+)
+{
+  "id": "nr3vEkp-4yUbBN-934160f56da8b9f6-PDX",
+  "object": "text.completion",
+  "created": 1745285666,
+  "model": "mistralai/Mixtral-8x7B-Instruct-v0.1",
+  "choices": [
+    {
+      "index": 0,
+      "text": " \"It sounds like you may be experiencing eye itchiness. This can be due to allergies, dryness, or irritation. It's important to note that only a healthcare professional can provide an accurate diagnosis. However, I can suggest some general advice. Over-the-counter artificial tears may help with dryness, and avoiding allergens can reduce itchiness. If symptoms persist or worsen, please consult a healthcare professional.\"",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": null,
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 238,
+    "total_tokens": 331,
+    "completion_tokens": 93,
+    "prompt_tokens_details": null
+  },
+  "prompt": []
+}Array
+(
+    [id] => nr3vEkp-4yUbBN-934160f56da8b9f6-PDX
+    [object] => text.completion
+    [created] => 1745285666
+    [model] => mistralai/Mixtral-8x7B-Instruct-v0.1
+    [choices] => Array
+        (
+            [0] => Array
+                (
+                    [index] => 0
+                    [text] =>  "It sounds like you may be experiencing eye itchiness. This can be due to allergies, dryness, or irritation. It's important to note that only a healthcare professional can provide an accurate diagnosis. However, I can suggest some general advice. Over-the-counter artificial tears may help with dryness, and avoiding allergens can reduce itchiness. If symptoms persist or worsen, please consult a healthcare professional."
+                    [logprobs] => 
+                    [finish_reason] => stop
+                    [stop_reason] => 
+                    [prompt_logprobs] => 
+                )
+
+        )
+
+    [usage] => Array
+        (
+            [prompt_tokens] => 238
+            [total_tokens] => 331
+            [completion_tokens] => 93
+            [prompt_tokens_details] => 
+        )
+
+    [prompt] => Array
+        (
+        )
+
+)
+{
+  "id": "nr3zvtP-4yUbBN-9341774eff93ba05-PDX",
+  "object": "text.completion",
+  "created": 1745286581,
+  "model": "mistralai/Mixtral-8x7B-Instruct-v0.1",
+  "choices": [
+    {
+      "index": 0,
+      "text": " It sounds like you might be experiencing eye irritation or redness. This could be due to allergies, dryness, or an infection. To help relieve your symptoms, try using over-the-counter artificial tears to keep your eyes moist. If your symptoms persist, worsen, or are accompanied by discharge, pain, or vision changes, please consult a healthcare professional for further evaluation.",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": null,
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 236,
+    "total_tokens": 320,
+    "completion_tokens": 84,
+    "prompt_tokens_details": null
+  },
+  "prompt": []
+}Array
+(
+    [id] => nr3zvtP-4yUbBN-9341774eff93ba05-PDX
+    [object] => text.completion
+    [created] => 1745286581
+    [model] => mistralai/Mixtral-8x7B-Instruct-v0.1
+    [choices] => Array
+        (
+            [0] => Array
+                (
+                    [index] => 0
+                    [text] =>  It sounds like you might be experiencing eye irritation or redness. This could be due to allergies, dryness, or an infection. To help relieve your symptoms, try using over-the-counter artificial tears to keep your eyes moist. If your symptoms persist, worsen, or are accompanied by discharge, pain, or vision changes, please consult a healthcare professional for further evaluation.
+                    [logprobs] => 
+                    [finish_reason] => stop
+                    [stop_reason] => 
+                    [prompt_logprobs] => 
+                )
+
+        )
+
+    [usage] => Array
+        (
+            [prompt_tokens] => 236
+            [total_tokens] => 320
+            [completion_tokens] => 84
+            [prompt_tokens_details] => 
+        )
+
+    [prompt] => Array
+        (
+        )
+
+)
+{
+  "id": "nr4EK82-4yUbBN-9341b70d6c398d0e-MNL",
+  "object": "text.completion",
+  "created": 1745289193,
+  "model": "mistralai/Mixtral-8x7B-Instruct-v0.1",
+  "choices": [
+    {
+      "index": 0,
+      "text": " \"I'm really sorry, but I'm not able to help diagnose or treat cancer. It's important to consult with a healthcare professional for any concerns related to cancer or other serious conditions. They can provide the appropriate care and support you need.\"",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": null,
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 235,
+    "total_tokens": 289,
+    "completion_tokens": 54,
+    "prompt_tokens_details": null
+  },
+  "prompt": []
+}Array
+(
+    [id] => nr4EK82-4yUbBN-9341b70d6c398d0e-MNL
+    [object] => text.completion
+    [created] => 1745289193
+    [model] => mistralai/Mixtral-8x7B-Instruct-v0.1
+    [choices] => Array
+        (
+            [0] => Array
+                (
+                    [index] => 0
+                    [text] =>  "I'm really sorry, but I'm not able to help diagnose or treat cancer. It's important to consult with a healthcare professional for any concerns related to cancer or other serious conditions. They can provide the appropriate care and support you need."
+                    [logprobs] => 
+                    [finish_reason] => stop
+                    [stop_reason] => 
+                    [prompt_logprobs] => 
+                )
+
+        )
+
+    [usage] => Array
+        (
+            [prompt_tokens] => 235
+            [total_tokens] => 289
+            [completion_tokens] => 54
+            [prompt_tokens_details] => 
+        )
+
+    [prompt] => Array
+        (
+        )
+
+)
+{
+  "id": "nr4EKm7-4yUbBN-9341b71cbb558d09-PDX",
+  "object": "text.completion",
+  "created": 1745289195,
+  "model": "mistralai/Mixtral-8x7B-Instruct-v0.1",
+  "choices": [
+    {
+      "index": 0,
+      "text": " I'm really sorry, but I'm not able to help with cancer. It's important to consult with a healthcare professional for such serious conditions.",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": null,
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 235,
+    "total_tokens": 268,
+    "completion_tokens": 33,
+    "prompt_tokens_details": null
+  },
+  "prompt": []
+}Array
+(
+    [id] => nr4EKm7-4yUbBN-9341b71cbb558d09-PDX
+    [object] => text.completion
+    [created] => 1745289195
+    [model] => mistralai/Mixtral-8x7B-Instruct-v0.1
+    [choices] => Array
+        (
+            [0] => Array
+                (
+                    [index] => 0
+                    [text] =>  I'm really sorry, but I'm not able to help with cancer. It's important to consult with a healthcare professional for such serious conditions.
+                    [logprobs] => 
+                    [finish_reason] => stop
+                    [stop_reason] => 
+                    [prompt_logprobs] => 
+                )
+
+        )
+
+    [usage] => Array
+        (
+            [prompt_tokens] => 235
+            [total_tokens] => 268
+            [completion_tokens] => 33
+            [prompt_tokens_details] => 
+        )
+
+    [prompt] => Array
+        (
+        )
+
+)
+{
+  "id": "nr4EWmN-4yUbBN-9341b8049abd6e8d-PDX",
+  "object": "text.completion",
+  "created": 1745289232,
+  "model": "mistralai/Mixtral-8x7B-Instruct-v0.1",
+  "choices": [
+    {
+      "index": 0,
+      "text": " It seems like you're experiencing skin redness. This could be due to various reasons such as allergies, sunburn, or a skin condition like rosacea or eczema. To help me narrow down the cause, could you please tell me if the redness is itchy, painful, or accompanied by any bumps or rashes?",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": null,
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 237,
+    "total_tokens": 312,
+    "completion_tokens": 75,
+    "prompt_tokens_details": null
+  },
+  "prompt": []
+}Array
+(
+    [id] => nr4EWmN-4yUbBN-9341b8049abd6e8d-PDX
+    [object] => text.completion
+    [created] => 1745289232
+    [model] => mistralai/Mixtral-8x7B-Instruct-v0.1
+    [choices] => Array
+        (
+            [0] => Array
+                (
+                    [index] => 0
+                    [text] =>  It seems like you're experiencing skin redness. This could be due to various reasons such as allergies, sunburn, or a skin condition like rosacea or eczema. To help me narrow down the cause, could you please tell me if the redness is itchy, painful, or accompanied by any bumps or rashes?
+                    [logprobs] => 
+                    [finish_reason] => stop
+                    [stop_reason] => 
+                    [prompt_logprobs] => 
+                )
+
+        )
+
+    [usage] => Array
+        (
+            [prompt_tokens] => 237
+            [total_tokens] => 312
+            [completion_tokens] => 75
+            [prompt_tokens_details] => 
+        )
+
+    [prompt] => Array
+        (
+        )
+
+)
+{
+  "id": "nr4Eoy1-4yUbBN-9341b96e1df68d0b-PDX",
+  "object": "text.completion",
+  "created": 1745289290,
+  "model": "mistralai/Mixtral-8x7B-Instruct-v0.1",
+  "choices": [
+    {
+      "index": 0,
+      "text": " Of course, I'd be happy to help! Could you please tell me what symptoms you're experiencing so I can provide a more accurate response for you?",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": null,
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 242,
+    "total_tokens": 276,
+    "completion_tokens": 34,
+    "prompt_tokens_details": null
+  },
+  "prompt": []
+}Array
+(
+    [id] => nr4Eoy1-4yUbBN-9341b96e1df68d0b-PDX
+    [object] => text.completion
+    [created] => 1745289290
+    [model] => mistralai/Mixtral-8x7B-Instruct-v0.1
+    [choices] => Array
+        (
+            [0] => Array
+                (
+                    [index] => 0
+                    [text] =>  Of course, I'd be happy to help! Could you please tell me what symptoms you're experiencing so I can provide a more accurate response for you?
+                    [logprobs] => 
+                    [finish_reason] => stop
+                    [stop_reason] => 
+                    [prompt_logprobs] => 
+                )
+
+        )
+
+    [usage] => Array
+        (
+            [prompt_tokens] => 242
+            [total_tokens] => 276
+            [completion_tokens] => 34
+            [prompt_tokens_details] => 
+        )
+
+    [prompt] => Array
+        (
+        )
+
+)
+{
+  "id": "nr4EunS-4yUbBN-9341b9e8694b8d0e-PDX",
+  "object": "text.completion",
+  "created": 1745289309,
+  "model": "mistralai/Mixtral-8x7B-Instruct-v0.1",
+  "choices": [
+    {
+      "index": 0,
+      "text": " It sounds like you're experiencing skin redness. This could be due to various reasons, such as an allergic reaction, inflammation, or a skin condition like eczema or rosacea. To help narrow down the cause, consider if you have any other symptoms, such as itching, pain, or scaling. If you're concerned, I recommend consulting a healthcare professional for a proper evaluation and treatment recommendations.",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": null,
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 237,
+    "total_tokens": 327,
+    "completion_tokens": 90,
+    "prompt_tokens_details": null
+  },
+  "prompt": []
+}Array
+(
+    [id] => nr4EunS-4yUbBN-9341b9e8694b8d0e-PDX
+    [object] => text.completion
+    [created] => 1745289309
+    [model] => mistralai/Mixtral-8x7B-Instruct-v0.1
+    [choices] => Array
+        (
+            [0] => Array
+                (
+                    [index] => 0
+                    [text] =>  It sounds like you're experiencing skin redness. This could be due to various reasons, such as an allergic reaction, inflammation, or a skin condition like eczema or rosacea. To help narrow down the cause, consider if you have any other symptoms, such as itching, pain, or scaling. If you're concerned, I recommend consulting a healthcare professional for a proper evaluation and treatment recommendations.
+                    [logprobs] => 
+                    [finish_reason] => stop
+                    [stop_reason] => 
+                    [prompt_logprobs] => 
+                )
+
+        )
+
+    [usage] => Array
+        (
+            [prompt_tokens] => 237
+            [total_tokens] => 327
+            [completion_tokens] => 90
+            [prompt_tokens_details] => 
+        )
+
+    [prompt] => Array
+        (
+        )
+
+)
+{
+  "id": "nr4LcBP-4yUbBN-9341d50aeeda6e8d-PDX",
+  "object": "text.completion",
+  "created": 1745290421,
+  "model": "mistralai/Mixtral-8x7B-Instruct-v0.1",
+  "choices": [
+    {
+      "index": 0,
+      "text": " I understand that your skin is itchy. This could be due to a number of reasons such as dryness, eczema, or an allergic reaction. Try using a moisturizer, and if the itchiness persists, consider consulting a healthcare professional for further evaluation.",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": null,
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 237,
+    "total_tokens": 297,
+    "completion_tokens": 60,
+    "prompt_tokens_details": null
+  },
+  "prompt": []
+}Array
+(
+    [id] => nr4LcBP-4yUbBN-9341d50aeeda6e8d-PDX
+    [object] => text.completion
+    [created] => 1745290421
+    [model] => mistralai/Mixtral-8x7B-Instruct-v0.1
+    [choices] => Array
+        (
+            [0] => Array
+                (
+                    [index] => 0
+                    [text] =>  I understand that your skin is itchy. This could be due to a number of reasons such as dryness, eczema, or an allergic reaction. Try using a moisturizer, and if the itchiness persists, consider consulting a healthcare professional for further evaluation.
+                    [logprobs] => 
+                    [finish_reason] => stop
+                    [stop_reason] => 
+                    [prompt_logprobs] => 
+                )
+
+        )
+
+    [usage] => Array
+        (
+            [prompt_tokens] => 237
+            [total_tokens] => 297
+            [completion_tokens] => 60
+            [prompt_tokens_details] => 
+        )
+
+    [prompt] => Array
+        (
+        )
+
+)
+{
+  "id": "nr4LmiA-4yUbBN-9341d5d389268d02-PDX",
+  "object": "text.completion",
+  "created": 1745290453,
+  "model": "mistralai/Mixtral-8x7B-Instruct-v0.1",
+  "choices": [
+    {
+      "index": 0,
+      "text": " \"Eczema often includes symptoms such as itchy, dry, and scaly skin, which may appear red and inflamed. There might also be small, raised bumps that ooze fluid when scratched. These symptoms can vary in severity and location on the body.\"",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": null,
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 242,
+    "total_tokens": 303,
+    "completion_tokens": 61,
+    "prompt_tokens_details": null
+  },
+  "prompt": []
+}Array
+(
+    [id] => nr4LmiA-4yUbBN-9341d5d389268d02-PDX
+    [object] => text.completion
+    [created] => 1745290453
+    [model] => mistralai/Mixtral-8x7B-Instruct-v0.1
+    [choices] => Array
+        (
+            [0] => Array
+                (
+                    [index] => 0
+                    [text] =>  "Eczema often includes symptoms such as itchy, dry, and scaly skin, which may appear red and inflamed. There might also be small, raised bumps that ooze fluid when scratched. These symptoms can vary in severity and location on the body."
+                    [logprobs] => 
+                    [finish_reason] => stop
+                    [stop_reason] => 
+                    [prompt_logprobs] => 
+                )
+
+        )
+
+    [usage] => Array
+        (
+            [prompt_tokens] => 242
+            [total_tokens] => 303
+            [completion_tokens] => 61
+            [prompt_tokens_details] => 
+        )
+
+    [prompt] => Array
+        (
+        )
+
+)
+{
+  "id": "nr4Lqco-4yUbBN-9341d6236eca6e8c-MNL",
+  "object": "text.completion",
+  "created": 1745290466,
+  "model": "mistralai/Mixtral-8x7B-Instruct-v0.1",
+  "choices": [
+    {
+      "index": 0,
+      "text": " \"To provide the best advice, I need to know what specific issue you're referring to. Could you please tell me more about your symptoms or concerns?\"",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": null,
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 237,
+    "total_tokens": 270,
+    "completion_tokens": 33,
+    "prompt_tokens_details": null
+  },
+  "prompt": []
+}Array
+(
+    [id] => nr4Lqco-4yUbBN-9341d6236eca6e8c-MNL
+    [object] => text.completion
+    [created] => 1745290466
+    [model] => mistralai/Mixtral-8x7B-Instruct-v0.1
+    [choices] => Array
+        (
+            [0] => Array
+                (
+                    [index] => 0
+                    [text] =>  "To provide the best advice, I need to know what specific issue you're referring to. Could you please tell me more about your symptoms or concerns?"
+                    [logprobs] => 
+                    [finish_reason] => stop
+                    [stop_reason] => 
+                    [prompt_logprobs] => 
+                )
+
+        )
+
+    [usage] => Array
+        (
+            [prompt_tokens] => 237
+            [total_tokens] => 270
+            [completion_tokens] => 33
+            [prompt_tokens_details] => 
+        )
+
+    [prompt] => Array
+        (
+        )
+
+)
+{
+  "id": "nr4M6Yh-4yUbBN-9341d75f8cbcb493-SEA",
+  "object": "text.completion",
+  "created": 1745290516,
+  "model": "mistralai/Mixtral-8x7B-Instruct-v0.1",
+  "choices": [
+    {
+      "index": 0,
+      "text": " \"It sounds like you're experiencing some skin issues. Dryness, itching, and rashes could be related to eczema or psoriasis. However, I highly recommend consulting with a healthcare professional for an accurate diagnosis and appropriate treatment.\"",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": null,
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 242,
+    "total_tokens": 295,
+    "completion_tokens": 53,
+    "prompt_tokens_details": null
+  },
+  "prompt": []
+}Array
+(
+    [id] => nr4M6Yh-4yUbBN-9341d75f8cbcb493-SEA
+    [object] => text.completion
+    [created] => 1745290516
+    [model] => mistralai/Mixtral-8x7B-Instruct-v0.1
+    [choices] => Array
+        (
+            [0] => Array
+                (
+                    [index] => 0
+                    [text] =>  "It sounds like you're experiencing some skin issues. Dryness, itching, and rashes could be related to eczema or psoriasis. However, I highly recommend consulting with a healthcare professional for an accurate diagnosis and appropriate treatment."
+                    [logprobs] => 
+                    [finish_reason] => stop
+                    [stop_reason] => 
+                    [prompt_logprobs] => 
+                )
+
+        )
+
+    [usage] => Array
+        (
+            [prompt_tokens] => 242
+            [total_tokens] => 295
+            [completion_tokens] => 53
+            [prompt_tokens_details] => 
+        )
+
+    [prompt] => Array
+        (
+        )
+
+)
+{
+  "id": "nr4MEAf-4yUbBN-9341d7ffca638cff-PDX",
+  "object": "text.completion",
+  "created": 1745290542,
+  "model": "mistralai/Mixtral-8x7B-Instruct-v0.1",
+  "choices": [
+    {
+      "index": 0,
+      "text": " Of course, I'd be happy to help! However, I need to know what your symptoms are first. Could you please describe what you're experiencing?",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": null,
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 237,
+    "total_tokens": 271,
+    "completion_tokens": 34,
+    "prompt_tokens_details": null
+  },
+  "prompt": []
+}Array
+(
+    [id] => nr4MEAf-4yUbBN-9341d7ffca638cff-PDX
+    [object] => text.completion
+    [created] => 1745290542
+    [model] => mistralai/Mixtral-8x7B-Instruct-v0.1
+    [choices] => Array
+        (
+            [0] => Array
+                (
+                    [index] => 0
+                    [text] =>  Of course, I'd be happy to help! However, I need to know what your symptoms are first. Could you please describe what you're experiencing?
+                    [logprobs] => 
+                    [finish_reason] => stop
+                    [stop_reason] => 
+                    [prompt_logprobs] => 
+                )
+
+        )
+
+    [usage] => Array
+        (
+            [prompt_tokens] => 237
+            [total_tokens] => 271
+            [completion_tokens] => 34
+            [prompt_tokens_details] => 
+        )
+
+    [prompt] => Array
+        (
+        )
+
+)
+{
+  "id": "nr4MHMc-4yUbBN-9341d842cb798d05-PDX",
+  "object": "text.completion",
+  "created": 1745290553,
+  "model": "mistralai/Mixtral-8x7B-Instruct-v0.1",
+  "choices": [
+    {
+      "index": 0,
+      "text": " It sounds like you're experiencing skin issues. Dryness, itching, and rashes can indicate conditions like eczema or allergies. It's important to monitor your symptoms and consult with a healthcare professional for proper diagnosis and treatment. In the meantime, try to avoid scratching, keep the affected area moisturized, and consider using hypoallergenic products. If your symptoms worsen or persist for more than a week, please seek medical attention.",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": null,
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 242,
+    "total_tokens": 341,
+    "completion_tokens": 99,
+    "prompt_tokens_details": null
+  },
+  "prompt": []
+}Array
+(
+    [id] => nr4MHMc-4yUbBN-9341d842cb798d05-PDX
+    [object] => text.completion
+    [created] => 1745290553
+    [model] => mistralai/Mixtral-8x7B-Instruct-v0.1
+    [choices] => Array
+        (
+            [0] => Array
+                (
+                    [index] => 0
+                    [text] =>  It sounds like you're experiencing skin issues. Dryness, itching, and rashes can indicate conditions like eczema or allergies. It's important to monitor your symptoms and consult with a healthcare professional for proper diagnosis and treatment. In the meantime, try to avoid scratching, keep the affected area moisturized, and consider using hypoallergenic products. If your symptoms worsen or persist for more than a week, please seek medical attention.
+                    [logprobs] => 
+                    [finish_reason] => stop
+                    [stop_reason] => 
+                    [prompt_logprobs] => 
+                )
+
+        )
+
+    [usage] => Array
+        (
+            [prompt_tokens] => 242
+            [total_tokens] => 341
+            [completion_tokens] => 99
+            [prompt_tokens_details] => 
+        )
+
+    [prompt] => Array
+        (
+        )
+
+)
+{
+  "id": "nr4MgB7-4yUbBN-9341da21fe06b48d-PDX",
+  "object": "text.completion",
+  "created": 1745290630,
+  "model": "mistralai/Mixtral-8x7B-Instruct-v0.1",
+  "choices": [
+    {
+      "index": 0,
+      "text": " \"I can recommend some general tips for acne treatment. Try to wash your face twice a day with a gentle cleanser, and avoid picking or squeezing pimples as it can lead to scarring and infection. Over-the-counter treatments with benzoyl peroxide or salicylic acid can also be helpful. However, if your acne is severe or persistent, it's best to consult a dermatologist for personalized advice.\"",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": null,
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 242,
+    "total_tokens": 339,
+    "completion_tokens": 97,
+    "prompt_tokens_details": null
+  },
+  "prompt": []
+}Array
+(
+    [id] => nr4MgB7-4yUbBN-9341da21fe06b48d-PDX
+    [object] => text.completion
+    [created] => 1745290630
+    [model] => mistralai/Mixtral-8x7B-Instruct-v0.1
+    [choices] => Array
+        (
+            [0] => Array
+                (
+                    [index] => 0
+                    [text] =>  "I can recommend some general tips for acne treatment. Try to wash your face twice a day with a gentle cleanser, and avoid picking or squeezing pimples as it can lead to scarring and infection. Over-the-counter treatments with benzoyl peroxide or salicylic acid can also be helpful. However, if your acne is severe or persistent, it's best to consult a dermatologist for personalized advice."
+                    [logprobs] => 
+                    [finish_reason] => stop
+                    [stop_reason] => 
+                    [prompt_logprobs] => 
+                )
+
+        )
+
+    [usage] => Array
+        (
+            [prompt_tokens] => 242
+            [total_tokens] => 339
+            [completion_tokens] => 97
+            [prompt_tokens_details] => 
+        )
+
+    [prompt] => Array
+        (
+        )
+
+)
+{
+  "id": "nr4nihn-4yUbBN-9342516ddf326e8d-PDX",
+  "object": "text.completion",
+  "created": 1745295516,
+  "model": "mistralai/Mixtral-8x7B-Instruct-v0.1",
+  "choices": [
+    {
+      "index": 0,
+      "text": " It sounds like you have a fever. While I can't diagnose or provide treatment, I can tell you that a fever above 38°C (100.4°F) is generally considered high. It's important to rest, stay hydrated, and monitor your symptoms. If your fever persists for more than 3 days or is accompanied by other concerning symptoms, please consult a healthcare professional.",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": null,
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 243,
+    "total_tokens": 332,
+    "completion_tokens": 89,
+    "prompt_tokens_details": null
+  },
+  "prompt": []
+}Array
+(
+    [id] => nr4nihn-4yUbBN-9342516ddf326e8d-PDX
+    [object] => text.completion
+    [created] => 1745295516
+    [model] => mistralai/Mixtral-8x7B-Instruct-v0.1
+    [choices] => Array
+        (
+            [0] => Array
+                (
+                    [index] => 0
+                    [text] =>  It sounds like you have a fever. While I can't diagnose or provide treatment, I can tell you that a fever above 38°C (100.4°F) is generally considered high. It's important to rest, stay hydrated, and monitor your symptoms. If your fever persists for more than 3 days or is accompanied by other concerning symptoms, please consult a healthcare professional.
+                    [logprobs] => 
+                    [finish_reason] => stop
+                    [stop_reason] => 
+                    [prompt_logprobs] => 
+                )
+
+        )
+
+    [usage] => Array
+        (
+            [prompt_tokens] => 243
+            [total_tokens] => 332
+            [completion_tokens] => 89
+            [prompt_tokens_details] => 
+        )
+
+    [prompt] => Array
+        (
+        )
+
+)
+{
+  "id": "nr4wSVv-4yUbBN-93427af5eac98cff-MNL",
+  "object": "text.completion",
+  "created": 1745297217,
+  "model": "mistralai/Mixtral-8x7B-Instruct-v0.1",
+  "choices": [
+    {
+      "index": 0,
+      "text": " I see that you have acne. Acne is a common skin condition that usually appears on the face, forehead, chest, upper back, and shoulders. It occurs when the hair follicles become plugged with oil and dead skin cells. It can be a result of hormonal changes during puberty, pregnancy, or menopause.\n\nThere are several treatments available for acne, including over-the-counter creams and gels, prescription medications, and lifestyle changes. It's essential to keep your skin clean and avoid picking or squeezing pimples, as it can lead to scarring and infection.\n\nIf your acne is severe, painful, or persistent, I recommend that you consult with a healthcare professional for proper diagnosis and treatment. In the meantime, try to maintain a healthy skincare routine and avoid using harsh products that can irritate your skin.\n\nHere are some tips to help you manage your acne:\n\n",
+      "logprobs": null,
+      "finish_reason": "length",
+      "stop_reason": null,
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 237,
+    "total_tokens": 437,
+    "completion_tokens": 200,
+    "prompt_tokens_details": null
+  },
+  "prompt": []
+}Array
+(
+    [id] => nr4wSVv-4yUbBN-93427af5eac98cff-MNL
+    [object] => text.completion
+    [created] => 1745297217
+    [model] => mistralai/Mixtral-8x7B-Instruct-v0.1
+    [choices] => Array
+        (
+            [0] => Array
+                (
+                    [index] => 0
+                    [text] =>  I see that you have acne. Acne is a common skin condition that usually appears on the face, forehead, chest, upper back, and shoulders. It occurs when the hair follicles become plugged with oil and dead skin cells. It can be a result of hormonal changes during puberty, pregnancy, or menopause.
+
+There are several treatments available for acne, including over-the-counter creams and gels, prescription medications, and lifestyle changes. It's essential to keep your skin clean and avoid picking or squeezing pimples, as it can lead to scarring and infection.
+
+If your acne is severe, painful, or persistent, I recommend that you consult with a healthcare professional for proper diagnosis and treatment. In the meantime, try to maintain a healthy skincare routine and avoid using harsh products that can irritate your skin.
+
+Here are some tips to help you manage your acne:
+
+
+                    [logprobs] => 
+                    [finish_reason] => length
+                    [stop_reason] => 
+                    [prompt_logprobs] => 
+                )
+
+        )
+
+    [usage] => Array
+        (
+            [prompt_tokens] => 237
+            [total_tokens] => 437
+            [completion_tokens] => 200
+            [prompt_tokens_details] => 
+        )
+
+    [prompt] => Array
+        (
+        )
+
+)
+{
+  "id": "nr4wXSH-4yUbBN-93427b5fea2fb493-PDX",
+  "object": "text.completion",
+  "created": 1745297234,
+  "model": "mistralai/Mixtral-8x7B-Instruct-v0.1",
+  "choices": [
+    {
+      "index": 0,
+      "text": " I'd be happy to provide some general advice. However, I need more information about the issue you're facing. Could you please describe your symptoms or the condition you're experiencing?",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": null,
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 237,
+    "total_tokens": 277,
+    "completion_tokens": 40,
+    "prompt_tokens_details": null
+  },
+  "prompt": []
+}Array
+(
+    [id] => nr4wXSH-4yUbBN-93427b5fea2fb493-PDX
+    [object] => text.completion
+    [created] => 1745297234
+    [model] => mistralai/Mixtral-8x7B-Instruct-v0.1
+    [choices] => Array
+        (
+            [0] => Array
+                (
+                    [index] => 0
+                    [text] =>  I'd be happy to provide some general advice. However, I need more information about the issue you're facing. Could you please describe your symptoms or the condition you're experiencing?
+                    [logprobs] => 
+                    [finish_reason] => stop
+                    [stop_reason] => 
+                    [prompt_logprobs] => 
+                )
+
+        )
+
+    [usage] => Array
+        (
+            [prompt_tokens] => 237
+            [total_tokens] => 277
+            [completion_tokens] => 40
+            [prompt_tokens_details] => 
+        )
+
+    [prompt] => Array
+        (
+        )
+
+)
+{
+  "id": "nr4wazP-4yUbBN-93427ba82dc18d02-MNL",
+  "object": "text.completion",
+  "created": 1745297246,
+  "model": "mistralai/Mixtral-8x7B-Instruct-v0.1",
+  "choices": [
+    {
+      "index": 0,
+      "text": " I understand you're experiencing redness, which is a common symptom for various conditions. Could you please specify where the redness is located? Is it on your skin, eyes, or any other specific area? This will help me provide a more accurate response. Thank you.",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": null,
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 234,
+    "total_tokens": 292,
+    "completion_tokens": 58,
+    "prompt_tokens_details": null
+  },
+  "prompt": []
+}Array
+(
+    [id] => nr4wazP-4yUbBN-93427ba82dc18d02-MNL
+    [object] => text.completion
+    [created] => 1745297246
+    [model] => mistralai/Mixtral-8x7B-Instruct-v0.1
+    [choices] => Array
+        (
+            [0] => Array
+                (
+                    [index] => 0
+                    [text] =>  I understand you're experiencing redness, which is a common symptom for various conditions. Could you please specify where the redness is located? Is it on your skin, eyes, or any other specific area? This will help me provide a more accurate response. Thank you.
+                    [logprobs] => 
+                    [finish_reason] => stop
+                    [stop_reason] => 
+                    [prompt_logprobs] => 
+                )
+
+        )
+
+    [usage] => Array
+        (
+            [prompt_tokens] => 234
+            [total_tokens] => 292
+            [completion_tokens] => 58
+            [prompt_tokens_details] => 
+        )
+
+    [prompt] => Array
+        (
+        )
+
+)
+{
+  "id": "nr4weQr-4yUbBN-93427bf2c9478cff-PDX",
+  "object": "text.completion",
+  "created": 1745297257,
+  "model": "mistralai/Mixtral-8x7B-Instruct-v0.1",
+  "choices": [
+    {
+      "index": 0,
+      "text": " It seems like there may be a typo in your message. Could you please clarify your symptoms or let me know if you meant something else? I can help with skin issues, viruses, headaches, stomach pain, or eye problems.",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": null,
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 234,
+    "total_tokens": 285,
+    "completion_tokens": 51,
+    "prompt_tokens_details": null
+  },
+  "prompt": []
+}Array
+(
+    [id] => nr4weQr-4yUbBN-93427bf2c9478cff-PDX
+    [object] => text.completion
+    [created] => 1745297257
+    [model] => mistralai/Mixtral-8x7B-Instruct-v0.1
+    [choices] => Array
+        (
+            [0] => Array
+                (
+                    [index] => 0
+                    [text] =>  It seems like there may be a typo in your message. Could you please clarify your symptoms or let me know if you meant something else? I can help with skin issues, viruses, headaches, stomach pain, or eye problems.
+                    [logprobs] => 
+                    [finish_reason] => stop
+                    [stop_reason] => 
+                    [prompt_logprobs] => 
+                )
+
+        )
+
+    [usage] => Array
+        (
+            [prompt_tokens] => 234
+            [total_tokens] => 285
+            [completion_tokens] => 51
+            [prompt_tokens_details] => 
+        )
+
+    [prompt] => Array
+        (
+        )
+
+)
+{
+  "id": "nr4wjZq-4yUbBN-93427c5f3a9eb48c-PDX",
+  "object": "text.completion",
+  "created": 1745297274,
+  "model": "mistralai/Mixtral-8x7B-Instruct-v0.1",
+  "choices": [
+    {
+      "index": 0,
+      "text": " It seems you're mentioning a skin issue. Would you like to describe any specific symptoms or concerns about your cheeks, such as redness, acne, or dryness?",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": null,
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 234,
+    "total_tokens": 272,
+    "completion_tokens": 38,
+    "prompt_tokens_details": null
+  },
+  "prompt": []
+}Array
+(
+    [id] => nr4wjZq-4yUbBN-93427c5f3a9eb48c-PDX
+    [object] => text.completion
+    [created] => 1745297274
+    [model] => mistralai/Mixtral-8x7B-Instruct-v0.1
+    [choices] => Array
+        (
+            [0] => Array
+                (
+                    [index] => 0
+                    [text] =>  It seems you're mentioning a skin issue. Would you like to describe any specific symptoms or concerns about your cheeks, such as redness, acne, or dryness?
+                    [logprobs] => 
+                    [finish_reason] => stop
+                    [stop_reason] => 
+                    [prompt_logprobs] => 
+                )
+
+        )
+
+    [usage] => Array
+        (
+            [prompt_tokens] => 234
+            [total_tokens] => 272
+            [completion_tokens] => 38
+            [prompt_tokens_details] => 
+        )
+
+    [prompt] => Array
+        (
+        )
+
+)
+{
+  "id": "nr4wr4V-4yUbBN-93427ce54bbb8d0f-MNL",
+  "object": "text.completion",
+  "created": 1745297296,
+  "model": "mistralai/Mixtral-8x7B-Instruct-v0.1",
+  "choices": [
+    {
+      "index": 0,
+      "text": " \"For acne on your forehead, I would recommend trying a few things. First, make sure you clean your face twice a day with a gentle cleanser. Avoid picking or squeezing the pimples, as this can lead to scarring and infection. Over-the-counter treatments with benzoyl peroxide or salicylic acid can also be helpful. If your acne is severe or doesn't improve with these methods, you may want to consider seeing a dermatologist for prescription medication. However, please consult with a healthcare professional for personalized advice.\"",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": null,
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 241,
+    "total_tokens": 362,
+    "completion_tokens": 121,
+    "prompt_tokens_details": null
+  },
+  "prompt": []
+}Array
+(
+    [id] => nr4wr4V-4yUbBN-93427ce54bbb8d0f-MNL
+    [object] => text.completion
+    [created] => 1745297296
+    [model] => mistralai/Mixtral-8x7B-Instruct-v0.1
+    [choices] => Array
+        (
+            [0] => Array
+                (
+                    [index] => 0
+                    [text] =>  "For acne on your forehead, I would recommend trying a few things. First, make sure you clean your face twice a day with a gentle cleanser. Avoid picking or squeezing the pimples, as this can lead to scarring and infection. Over-the-counter treatments with benzoyl peroxide or salicylic acid can also be helpful. If your acne is severe or doesn't improve with these methods, you may want to consider seeing a dermatologist for prescription medication. However, please consult with a healthcare professional for personalized advice."
+                    [logprobs] => 
+                    [finish_reason] => stop
+                    [stop_reason] => 
+                    [prompt_logprobs] => 
+                )
+
+        )
+
+    [usage] => Array
+        (
+            [prompt_tokens] => 241
+            [total_tokens] => 362
+            [completion_tokens] => 121
+            [prompt_tokens_details] => 
+        )
+
+    [prompt] => Array
+        (
+        )
+
+)
+{
+  "id": "nr4wvPu-4yUbBN-93427d42ab5d8d0f-MNL",
+  "object": "text.completion",
+  "created": 1745297311,
+  "model": "mistralai/Mixtral-8x7B-Instruct-v0.1",
+  "choices": [
+    {
+      "index": 0,
+      "text": " I'm really sorry to hear that you're feeling unwell. However, I'm not equipped to diagnose or treat cancer. I would recommend you consult with a healthcare professional for proper evaluation and care.",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": null,
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 236,
+    "total_tokens": 281,
+    "completion_tokens": 45,
+    "prompt_tokens_details": null
+  },
+  "prompt": []
+}Array
+(
+    [id] => nr4wvPu-4yUbBN-93427d42ab5d8d0f-MNL
+    [object] => text.completion
+    [created] => 1745297311
+    [model] => mistralai/Mixtral-8x7B-Instruct-v0.1
+    [choices] => Array
+        (
+            [0] => Array
+                (
+                    [index] => 0
+                    [text] =>  I'm really sorry to hear that you're feeling unwell. However, I'm not equipped to diagnose or treat cancer. I would recommend you consult with a healthcare professional for proper evaluation and care.
+                    [logprobs] => 
+                    [finish_reason] => stop
+                    [stop_reason] => 
+                    [prompt_logprobs] => 
+                )
+
+        )
+
+    [usage] => Array
+        (
+            [prompt_tokens] => 236
+            [total_tokens] => 281
+            [completion_tokens] => 45
+            [prompt_tokens_details] => 
+        )
+
+    [prompt] => Array
+        (
+        )
+
+)
+{
+  "id": "nr5bTHC-4yUbBN-9343300b499a4ee6-PDX",
+  "object": "text.completion",
+  "created": 1745304634,
+  "model": "mistralai/Mixtral-8x7B-Instruct-v0.1",
+  "choices": [
+    {
+      "index": 0,
+      "text": " I'm really sorry, but I can only help with skin issues, viruses, headaches, stomach pain, or eye problems. I would recommend talking to a healthcare professional if you think you have cancer. They can give you the proper care and attention you need.",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": null,
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 235,
+    "total_tokens": 291,
+    "completion_tokens": 56,
+    "prompt_tokens_details": null
+  },
+  "prompt": []
+}Array
+(
+    [id] => nr5bTHC-4yUbBN-9343300b499a4ee6-PDX
+    [object] => text.completion
+    [created] => 1745304634
+    [model] => mistralai/Mixtral-8x7B-Instruct-v0.1
+    [choices] => Array
+        (
+            [0] => Array
+                (
+                    [index] => 0
+                    [text] =>  I'm really sorry, but I can only help with skin issues, viruses, headaches, stomach pain, or eye problems. I would recommend talking to a healthcare professional if you think you have cancer. They can give you the proper care and attention you need.
+                    [logprobs] => 
+                    [finish_reason] => stop
+                    [stop_reason] => 
+                    [prompt_logprobs] => 
+                )
+
+        )
+
+    [usage] => Array
+        (
+            [prompt_tokens] => 235
+            [total_tokens] => 291
+            [completion_tokens] => 56
+            [prompt_tokens_details] => 
+        )
+
+    [prompt] => Array
+        (
+        )
+
+)
+{
+  "id": "nr5mqYy-4yUbBN-9343617f7e884ee2-MNL",
+  "object": "text.completion",
+  "created": 1745306660,
+  "model": "mistralai/Mixtral-8x7B-Instruct-v0.1",
+  "choices": [
+    {
+      "index": 0,
+      "text": " I'm an AI assistant and can't diagnose serious conditions like cancer. It's essential to consult with a healthcare professional for proper evaluation and treatment.",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": null,
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 236,
+    "total_tokens": 270,
+    "completion_tokens": 34,
+    "prompt_tokens_details": null
+  },
+  "prompt": []
+}Array
+(
+    [id] => nr5mqYy-4yUbBN-9343617f7e884ee2-MNL
+    [object] => text.completion
+    [created] => 1745306660
+    [model] => mistralai/Mixtral-8x7B-Instruct-v0.1
+    [choices] => Array
+        (
+            [0] => Array
+                (
+                    [index] => 0
+                    [text] =>  I'm an AI assistant and can't diagnose serious conditions like cancer. It's essential to consult with a healthcare professional for proper evaluation and treatment.
+                    [logprobs] => 
+                    [finish_reason] => stop
+                    [stop_reason] => 
+                    [prompt_logprobs] => 
+                )
+
+        )
+
+    [usage] => Array
+        (
+            [prompt_tokens] => 236
+            [total_tokens] => 270
+            [completion_tokens] => 34
+            [prompt_tokens_details] => 
+        )
+
+    [prompt] => Array
+        (
+        )
+
+)
+{
+  "id": "nr5o9k1-4yUbBN-934367c3cf7e4eea-PDX",
+  "error": {
+    "message": "Request was rejected due to request rate limiting. Your rate limits are 60 RPM (1 QPS) and 60000 TPM (1000 TPS). See details: https://docs.together.ai/docs/rate-limits",
+    "type": "rate_limit",
+    "param": null,
+    "code": null
+  }
+}Array
+(
+    [id] => nr5o9k1-4yUbBN-934367c3cf7e4eea-PDX
+    [error] => Array
+        (
+            [message] => Request was rejected due to request rate limiting. Your rate limits are 60 RPM (1 QPS) and 60000 TPM (1000 TPS). See details: https://docs.together.ai/docs/rate-limits
+            [type] => rate_limit
+            [param] => 
+            [code] => 
+        )
+
+)
+{
+  "id": "nr5o9jP-4yUbBN-934367c3ccd74edf-PDX",
+  "object": "text.completion",
+  "created": 1745306916,
+  "model": "mistralai/Mixtral-8x7B-Instruct-v0.1",
+  "choices": [
+    {
+      "index": 0,
+      "text": " I see that you have skin rashes. This could be due to various reasons such as allergies, eczema, or psoriasis. It's essential to monitor the rash and check if it's spreading or getting worse. You can also try over-the-counter creams or ointments to soothe the area. However, if the rash persists for more than a week, becomes painful, or is accompanied by a fever, you should consult a healthcare professional. Is there anything else I can help you with?",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": null,
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 240,
+    "total_tokens": 354,
+    "completion_tokens": 114,
+    "prompt_tokens_details": null
+  },
+  "prompt": []
+}Array
+(
+    [id] => nr5o9jP-4yUbBN-934367c3ccd74edf-PDX
+    [object] => text.completion
+    [created] => 1745306916
+    [model] => mistralai/Mixtral-8x7B-Instruct-v0.1
+    [choices] => Array
+        (
+            [0] => Array
+                (
+                    [index] => 0
+                    [text] =>  I see that you have skin rashes. This could be due to various reasons such as allergies, eczema, or psoriasis. It's essential to monitor the rash and check if it's spreading or getting worse. You can also try over-the-counter creams or ointments to soothe the area. However, if the rash persists for more than a week, becomes painful, or is accompanied by a fever, you should consult a healthcare professional. Is there anything else I can help you with?
+                    [logprobs] => 
+                    [finish_reason] => stop
+                    [stop_reason] => 
+                    [prompt_logprobs] => 
+                )
+
+        )
+
+    [usage] => Array
+        (
+            [prompt_tokens] => 240
+            [total_tokens] => 354
+            [completion_tokens] => 114
+            [prompt_tokens_details] => 
+        )
+
+    [prompt] => Array
+        (
+        )
+
+)
+{
+  "id": "nr5o9jZ-4yUbBN-934367c3ca264ee2-MNL",
+  "object": "text.completion",
+  "created": 1745306916,
+  "model": "mistralai/Mixtral-8x7B-Instruct-v0.1",
+  "choices": [
+    {
+      "index": 0,
+      "text": " It sounds like you're experiencing skin rashes. Skin rashes can be caused by various factors, such as allergies, infections, or irritants. It's essential to monitor the rash and take note of any changes in appearance, size, or location. If the rash is accompanied by other symptoms like fever, difficulty breathing, or widespread redness, please consult a healthcare professional immediately. Over-the-counter creams and lotions may help soothe the itching and inflammation. However, it's always best to consult a doctor for a proper diagnosis and treatment recommendations.",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": null,
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 240,
+    "total_tokens": 366,
+    "completion_tokens": 126,
+    "prompt_tokens_details": null
+  },
+  "prompt": []
+}Array
+(
+    [id] => nr5o9jZ-4yUbBN-934367c3ca264ee2-MNL
+    [object] => text.completion
+    [created] => 1745306916
+    [model] => mistralai/Mixtral-8x7B-Instruct-v0.1
+    [choices] => Array
+        (
+            [0] => Array
+                (
+                    [index] => 0
+                    [text] =>  It sounds like you're experiencing skin rashes. Skin rashes can be caused by various factors, such as allergies, infections, or irritants. It's essential to monitor the rash and take note of any changes in appearance, size, or location. If the rash is accompanied by other symptoms like fever, difficulty breathing, or widespread redness, please consult a healthcare professional immediately. Over-the-counter creams and lotions may help soothe the itching and inflammation. However, it's always best to consult a doctor for a proper diagnosis and treatment recommendations.
+                    [logprobs] => 
+                    [finish_reason] => stop
+                    [stop_reason] => 
+                    [prompt_logprobs] => 
+                )
+
+        )
+
+    [usage] => Array
+        (
+            [prompt_tokens] => 240
+            [total_tokens] => 366
+            [completion_tokens] => 126
+            [prompt_tokens_details] => 
+        )
+
+    [prompt] => Array
+        (
+        )
+
+)
+{
+  "id": "nr5oCMj-4yUbBN-934367fb7e344ee8-PDX",
+  "object": "text.completion",
+  "created": 1745306925,
+  "model": "mistralai/Mixtral-8x7B-Instruct-v0.1",
+  "choices": [
+    {
+      "index": 0,
+      "text": " \"I'm here to help! Skin rashes can be caused by various factors, such as allergies, irritants, infections, or underlying health conditions. If the rash is itchy, painful, or has blisters, it's essential to consult a healthcare professional for proper evaluation and treatment. Over-the-counter creams or ointments may help relieve symptoms in some cases. Remember to avoid scratching the affected area, as it can lead to infection and worsen the rash. Stay hydrated and maintain good skin hygiene to support your skin's healing process. If your symptoms persist or worsen, please consult a healthcare professional.\"",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": null,
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 237,
+    "total_tokens": 384,
+    "completion_tokens": 147,
+    "prompt_tokens_details": null
+  },
+  "prompt": []
+}Array
+(
+    [id] => nr5oCMj-4yUbBN-934367fb7e344ee8-PDX
+    [object] => text.completion
+    [created] => 1745306925
+    [model] => mistralai/Mixtral-8x7B-Instruct-v0.1
+    [choices] => Array
+        (
+            [0] => Array
+                (
+                    [index] => 0
+                    [text] =>  "I'm here to help! Skin rashes can be caused by various factors, such as allergies, irritants, infections, or underlying health conditions. If the rash is itchy, painful, or has blisters, it's essential to consult a healthcare professional for proper evaluation and treatment. Over-the-counter creams or ointments may help relieve symptoms in some cases. Remember to avoid scratching the affected area, as it can lead to infection and worsen the rash. Stay hydrated and maintain good skin hygiene to support your skin's healing process. If your symptoms persist or worsen, please consult a healthcare professional."
+                    [logprobs] => 
+                    [finish_reason] => stop
+                    [stop_reason] => 
+                    [prompt_logprobs] => 
+                )
+
+        )
+
+    [usage] => Array
+        (
+            [prompt_tokens] => 237
+            [total_tokens] => 384
+            [completion_tokens] => 147
+            [prompt_tokens_details] => 
+        )
+
+    [prompt] => Array
+        (
+        )
+
+)
+{
+  "id": "nr5oD49-4yUbBN-9343680a2a954ee2-PDX",
+  "object": "text.completion",
+  "created": 1745306928,
+  "model": "mistralai/Mixtral-8x7B-Instruct-v0.1",
+  "choices": [
+    {
+      "index": 0,
+      "text": " I'm here to help! It sounds like you're experiencing skin rashes. I can provide some general advice, but it's important to consult with a healthcare professional for an accurate diagnosis and treatment. Here are some general tips:\n1. Avoid scratching or picking at the rash, as this can lead to infection.\n2. Keep the affected area clean and dry.\n3. Try over-the-counter hydrocortisone cream or calamine lotion for itching and inflammation.\n4. If the rash is caused by an allergic reaction, avoid the allergen if possible.\n5. If symptoms persist or worsen, seek medical attention.\n\nRemember, this advice is meant to be helpful, but it is not a substitute for professional medical care. Stay safe and take care!",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": null,
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 237,
+    "total_tokens": 414,
+    "completion_tokens": 177,
+    "prompt_tokens_details": null
+  },
+  "prompt": []
+}Array
+(
+    [id] => nr5oD49-4yUbBN-9343680a2a954ee2-PDX
+    [object] => text.completion
+    [created] => 1745306928
+    [model] => mistralai/Mixtral-8x7B-Instruct-v0.1
+    [choices] => Array
+        (
+            [0] => Array
+                (
+                    [index] => 0
+                    [text] =>  I'm here to help! It sounds like you're experiencing skin rashes. I can provide some general advice, but it's important to consult with a healthcare professional for an accurate diagnosis and treatment. Here are some general tips:
+1. Avoid scratching or picking at the rash, as this can lead to infection.
+2. Keep the affected area clean and dry.
+3. Try over-the-counter hydrocortisone cream or calamine lotion for itching and inflammation.
+4. If the rash is caused by an allergic reaction, avoid the allergen if possible.
+5. If symptoms persist or worsen, seek medical attention.
+
+Remember, this advice is meant to be helpful, but it is not a substitute for professional medical care. Stay safe and take care!
+                    [logprobs] => 
+                    [finish_reason] => stop
+                    [stop_reason] => 
+                    [prompt_logprobs] => 
+                )
+
+        )
+
+    [usage] => Array
+        (
+            [prompt_tokens] => 237
+            [total_tokens] => 414
+            [completion_tokens] => 177
+            [prompt_tokens_details] => 
+        )
+
+    [prompt] => Array
+        (
+        )
+
+)
+{
+  "id": "nrQPYvZ-4yUbBN-935778b28cd2bc55-PDX",
+  "object": "text.completion",
+  "created": 1745517325,
+  "model": "mistralai/Mixtral-8x7B-Instruct-v0.1",
+  "choices": [
+    {
+      "index": 0,
+      "text": " I'm really sorry that you're feeling this way, but I'm not able to provide the help that you need. It's really important to talk things over with someone who can, though, such as a healthcare professional or a trusted person in your life.",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": null,
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 235,
+    "total_tokens": 292,
+    "completion_tokens": 57,
+    "prompt_tokens_details": null
+  },
+  "prompt": []
+}Array
+(
+    [id] => nrQPYvZ-4yUbBN-935778b28cd2bc55-PDX
+    [object] => text.completion
+    [created] => 1745517325
+    [model] => mistralai/Mixtral-8x7B-Instruct-v0.1
+    [choices] => Array
+        (
+            [0] => Array
+                (
+                    [index] => 0
+                    [text] =>  I'm really sorry that you're feeling this way, but I'm not able to provide the help that you need. It's really important to talk things over with someone who can, though, such as a healthcare professional or a trusted person in your life.
+                    [logprobs] => 
+                    [finish_reason] => stop
+                    [stop_reason] => 
+                    [prompt_logprobs] => 
+                )
+
+        )
+
+    [usage] => Array
+        (
+            [prompt_tokens] => 235
+            [total_tokens] => 292
+            [completion_tokens] => 57
+            [prompt_tokens_details] => 
+        )
+
+    [prompt] => Array
+        (
+        )
+
+)

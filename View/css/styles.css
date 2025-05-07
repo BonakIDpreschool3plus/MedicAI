@@ -1,0 +1,20 @@
+
+
+
+.login-container {
+    max-width: 450px;
+    margin: 80px auto;
+}
+.card {
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+.card-header {
+    background-color: #f8f9fa;
+    border-bottom: none;
+    padding: 20px 0 0 0;
+}
+.btn-primary {
+    border-radius: 5px;
+    padding: 10px 20px;
+}
