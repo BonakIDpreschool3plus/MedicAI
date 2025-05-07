@@ -200,6 +200,15 @@ ALTER TABLE `patient_creds`
   ADD UNIQUE KEY `email` (`email`);
 
 --
+-- Add a primary key on the 'id' column and an index on the 'doctor_id' column in the doctor_availability table
+ALTER TABLE `doctor_availability`
+  ADD PRIMARY KEY (`id`),
+  ADD KEY `doctor_id` (`doctor_id`);
+
+-- Add an index on the 'email' column in the doctor_creds table
+ALTER TABLE `doctor_creds`
+  ADD KEY `email_index` (`email`);  
+
 -- Indexes for table `patient_records`
 --
 ALTER TABLE `patient_records`
